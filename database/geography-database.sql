@@ -548,7 +548,7 @@ INSERT INTO `currencies` (`currency_code`, `description`) VALUES
 	('TJS', 'Tajikistan Somoni'),
 	('TMT', 'Turkmenistan Manat'),
 	('TND', 'Tunisia Dinar'),
-	('TOP', 'Tonga Pa\'anga'),
+	('TOP', 'Tonga Paanga'),
 	('TRY', 'Turkey Lira'),
 	('TTD', 'Trinidad and Tobago Dollar'),
 	('TVD', 'Tuvalu Dollar'),
